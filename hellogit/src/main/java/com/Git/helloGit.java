@@ -6,6 +6,7 @@ public class helloGit {
         System.out.println("Hello Git!");
         System.out.println("update01");
         System.out.println("分支添加");
+        System.out.println("分支冲突");
     }
 
 }
